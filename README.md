@@ -1,6 +1,6 @@
 ### ✨ _QDistinction_ ✨
 [![QDis233's GitHub stats](https://github-readme-stats.vercel.app/api?username=qdis233&show_icons=true&theme=dark)]<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qdis233&show_icons=true&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qdis233&layout=donut&show_icons=true&theme=dark)]
 
 <!--
 **QDis233/QDis233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
